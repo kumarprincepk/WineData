@@ -24,3 +24,15 @@ Your app is ready to be deployed!
 
 [Sample image for Flavanoids](./public/assets/images/flavanoids.png)
 [Sample image for Gamma](./public/assets/images/Gamma.png)
+
+# ScreenShot
+
+Calculated value of the class-wise mean, median, mode of “Flavanoids”
+![flavanoids](https://github.com/kumarprincepk/WineData/assets/63443684/a9a5406f-f0cf-4023-8405-d54bc23e4377)
+
+Calculated value of the class-wise mean, median, mode of “Gamma” (where Gamma = Ash * Hue) / Magnesium)
+
+![Gamma](https://github.com/kumarprincepk/WineData/assets/63443684/9b8a8082-fc3a-4961-8f71-42ab98226589)
+
+
+
