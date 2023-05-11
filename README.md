@@ -22,5 +22,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-![Sample image for Flavanoids](./public/assets/images/flavanoids.png)
-![Sample image for Gamma](./public/assets/images/Gamma.png)
+[Sample image for Flavanoids](./public/assets/images/flavanoids.png)
+[Sample image for Gamma](./public/assets/images/Gamma.png)
